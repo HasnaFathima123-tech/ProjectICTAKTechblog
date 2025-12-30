@@ -5,8 +5,8 @@
     <classes>
       <class name="org.ictkerala.testcases.UserTest">
         <methods>
-          <include name="tearDown"/>
           <include name="seup"/>
+          <include name="tearDown"/>
           <include name="objInt"/>
           <include name="tc002"/>
           <include name="tc005"/>
